@@ -1,4 +1,4 @@
-# firefox-tweks
+# firefox-tweaks
 Tweaks for Firefox-Developer-Edition
 
 
