@@ -4,7 +4,7 @@ Tweaks for Firefox-Developer-Edition
 
 Digite about:config no navegador
 
-1. procure por browser.tabs.insertRelatedAfterCurrente e ajuste para false;
+1. procure por browser.tabs.insertRelatedAfterCurrent e ajuste para false;
 2. procure por layers.acceleration.force-enabled e ajuste para true;
 3. procure por gfx.webrender.all e ajuste para true;
 4. procure por media.ffmpeg.vaapi.enabled e ajuste para true;
